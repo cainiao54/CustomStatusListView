@@ -1,0 +1,299 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="dip_0.5">0.5dip</dimen>
+
+    <dimen name="dip_1">1dip</dimen>
+    <dimen name="dip_1.5">1.5dip</dimen>
+
+    <dimen name="dip_2">2dip</dimen>
+    <dimen name="dip_2.5">2.5dip</dimen>
+
+    <dimen name="dip_3">3dip</dimen>
+    <dimen name="dip_3.5">3.5dip</dimen>
+
+    <dimen name="dip_4">4dip</dimen>
+    <dimen name="dip_4.5">4.5dip</dimen>
+
+    <dimen name="dip_5">5dip</dimen>
+    <dimen name="dip_5.5">5.5dip</dimen>
+
+    <dimen name="dip_6">6dip</dimen>
+    <dimen name="dip_6.5">6.5dip</dimen>
+
+    <dimen name="dip_7">7dip</dimen>
+    <dimen name="dip_7.5">7.5dip</dimen>
+
+    <dimen name="dip_8">8dip</dimen>
+    <dimen name="dip_8.5">8.5dip</dimen>
+
+    <dimen name="dip_9">9dip</dimen>
+    <dimen name="dip_9.5">9.5dip</dimen>
+
+    <dimen name="dip_10">10dip</dimen>
+    <dimen name="dip_10.5">10.5dip</dimen>
+
+    <dimen name="dip_11">11dip</dimen>
+    <dimen name="dip_11.5">11.5dip</dimen>
+
+    <dimen name="dip_12">12dip</dimen>
+    <dimen name="dip_12.5">12.5dip</dimen>
+
+    <dimen name="dip_13">13dip</dimen>
+    <dimen name="dip_13.5">13.5dip</dimen>
+
+    <dimen name="dip_14">14dip</dimen>
+    <dimen name="dip_14.5">14.5dip</dimen>
+
+    <dimen name="dip_15">15dip</dimen>
+    <dimen name="dip_15.5">15.5dip</dimen>
+
+    <dimen name="dip_16">16dip</dimen>
+    <dimen name="dip_16.5">16.5dip</dimen>
+
+    <dimen name="dip_17">17dip</dimen>
+    <dimen name="dip_17.5">17.5dip</dimen>
+
+    <dimen name="dip_18">18dip</dimen>
+    <dimen name="dip_18.5">18.5dip</dimen>
+
+    <dimen name="dip_19">19dip</dimen>
+    <dimen name="dip_19.5">19.5dip</dimen>
+
+    <dimen name="dip_20">20dip</dimen>
+    <dimen name="dip_20.5">20.5dip</dimen>
+
+    <dimen name="dip_21">21dip</dimen>
+    <dimen name="dip_21.5">21.5dip</dimen>
+
+    <dimen name="dip_22">22dip</dimen>
+    <dimen name="dip_22.5">22.5dip</dimen>
+
+    <dimen name="dip_23">23dip</dimen>
+    <dimen name="dip_23.5">23.5dip</dimen>
+
+    <dimen name="dip_24">24dip</dimen>
+    <dimen name="dip_24.5">24.5dip</dimen>
+
+    <dimen name="dip_25">25dip</dimen>
+    <dimen name="dip_25.5">25.5dip</dimen>
+
+    <dimen name="dip_26">26dip</dimen>
+    <dimen name="dip_26.5">26.5dip</dimen>
+
+    <dimen name="dip_27">27dip</dimen>
+    <dimen name="dip_27.5">27.5dip</dimen>
+
+    <dimen name="dip_28">28dip</dimen>
+    <dimen name="dip_28.5">28.5dip</dimen>
+
+    <dimen name="dip_29">29dip</dimen>
+    <dimen name="dip_29.5">29.5dip</dimen>
+
+    <dimen name="dip_30">30dip</dimen>
+    <dimen name="dip_30.5">30.5dip</dimen>
+
+    <dimen name="dip_44">44dip</dimen>
+
+
+    <!-- =================新版通用尺寸hdpi，dp================= -->
+    <dimen name="px1_dp">0.3dp</dimen>
+    <dimen name="px2_dp">0.7dp</dimen>
+    <dimen name="px3_dp">1.0dp</dimen>
+    <dimen name="px4_dp">1.3dp</dimen>
+    <dimen name="px5_dp">1.7dp</dimen>
+    <dimen name="px6_dp">2.0dp</dimen>
+    <dimen name="px7_dp">2.3dp</dimen>
+    <dimen name="px8_dp">2.7dp</dimen>
+    <dimen name="px9_dp">3.0dp</dimen>
+    <dimen name="px10_dp">3.3dp</dimen>
+    <dimen name="px11_dp">3.7dp</dimen>
+    <dimen name="px12_dp">4.0dp</dimen>
+    <dimen name="px13_dp">4.3dp</dimen>
+    <dimen name="px14_dp">4.7dp</dimen>
+    <dimen name="px15_dp">5.0dp</dimen>
+    <dimen name="px16_dp">5.3dp</dimen>
+    <dimen name="px17_dp">5.7dp</dimen>
+    <dimen name="px18_dp">6.0dp</dimen>
+    <dimen name="px19_dp">6.3dp</dimen>
+    <dimen name="px20_dp">6.7dp</dimen>
+    <dimen name="px21_dp">7.0dp</dimen>
+    <dimen name="px22_dp">7.3dp</dimen>
+    <dimen name="px23_dp">7.7dp</dimen>
+    <dimen name="px24_dp">8.0dp</dimen>
+    <dimen name="px25_dp">8.3dp</dimen>
+    <dimen name="px26_dp">8.7dp</dimen>
+    <dimen name="px27_dp">9.0dp</dimen>
+    <dimen name="px28_dp">9.3dp</dimen>
+    <dimen name="px29_dp">9.7dp</dimen>
+    <dimen name="px30_dp">10.0dp</dimen>
+    <dimen name="px31_dp">10.3dp</dimen>
+    <dimen name="px32_dp">10.7dp</dimen>
+    <dimen name="px33_dp">11.0dp</dimen>
+    <dimen name="px34_dp">11.3dp</dimen>
+    <dimen name="px35_dp">11.7dp</dimen>
+    <dimen name="px36_dp">12.0dp</dimen>
+    <dimen name="px37_dp">12.3dp</dimen>
+    <dimen name="px38_dp">12.7dp</dimen>
+    <dimen name="px39_dp">13.0dp</dimen>
+    <dimen name="px40_dp">13.3dp</dimen>
+    <dimen name="px41_dp">13.7dp</dimen>
+    <dimen name="px42_dp">14.0dp</dimen>
+    <dimen name="px43_dp">14.3dp</dimen>
+    <dimen name="px44_dp">14.7dp</dimen>
+    <dimen name="px45_dp">15.0dp</dimen>
+    <dimen name="px46_dp">15.3dp</dimen>
+    <dimen name="px47_dp">15.7dp</dimen>
+    <dimen name="px48_dp">16.0dp</dimen>
+    <dimen name="px49_dp">16.3dp</dimen>
+    <dimen name="px50_dp">16.7dp</dimen>
+    <dimen name="px51_dp">17.0dp</dimen>
+    <dimen name="px52_dp">17.3dp</dimen>
+    <dimen name="px53_dp">17.7dp</dimen>
+    <dimen name="px54_dp">18.0dp</dimen>
+    <dimen name="px55_dp">18.3dp</dimen>
+    <dimen name="px56_dp">18.7dp</dimen>
+    <dimen name="px57_dp">19.0dp</dimen>
+    <dimen name="px58_dp">19.3dp</dimen>
+    <dimen name="px59_dp">19.7dp</dimen>
+    <dimen name="px60_dp">20.0dp</dimen>
+    <dimen name="px61_dp">20.3dp</dimen>
+    <dimen name="px62_dp">20.7dp</dimen>
+    <dimen name="px63_dp">21.0dp</dimen>
+    <dimen name="px64_dp">21.3dp</dimen>
+    <dimen name="px65_dp">21.7dp</dimen>
+    <dimen name="px66_dp">22.0dp</dimen>
+    <dimen name="px67_dp">22.3dp</dimen>
+    <dimen name="px68_dp">22.7dp</dimen>
+    <dimen name="px69_dp">23.0dp</dimen>
+    <dimen name="px70_dp">23.3dp</dimen>
+    <dimen name="px71_dp">23.7dp</dimen>
+    <dimen name="px72_dp">24.0dp</dimen>
+    <dimen name="px73_dp">24.3dp</dimen>
+    <dimen name="px74_dp">24.7dp</dimen>
+    <dimen name="px75_dp">25.0dp</dimen>
+    <dimen name="px76_dp">25.3dp</dimen>
+    <dimen name="px77_dp">25.7dp</dimen>
+    <dimen name="px78_dp">26.0dp</dimen>
+    <dimen name="px79_dp">26.3dp</dimen>
+    <dimen name="px80_dp">26.7dp</dimen>
+    <dimen name="px81_dp">27.0dp</dimen>
+    <dimen name="px82_dp">27.3dp</dimen>
+    <dimen name="px83_dp">27.7dp</dimen>
+    <dimen name="px84_dp">28.0dp</dimen>
+    <dimen name="px85_dp">28.3dp</dimen>
+    <dimen name="px86_dp">28.7dp</dimen>
+    <dimen name="px87_dp">29.0dp</dimen>
+    <dimen name="px88_dp">29.3dp</dimen>
+    <dimen name="px89_dp">29.7dp</dimen>
+    <dimen name="px90_dp">30.0dp</dimen>
+    <dimen name="px91_dp">30.3dp</dimen>
+    <dimen name="px92_dp">30.7dp</dimen>
+    <dimen name="px93_dp">31.0dp</dimen>
+    <dimen name="px94_dp">31.3dp</dimen>
+    <dimen name="px95_dp">31.7dp</dimen>
+    <dimen name="px96_dp">32.0dp</dimen>
+    <dimen name="px97_dp">32.3dp</dimen>
+    <dimen name="px98_dp">32.7dp</dimen>
+    <dimen name="px99_dp">33.0dp</dimen>
+    <dimen name="px100_dp">33.3dp</dimen>
+    <dimen name="px104_dp">34.7dp</dimen>
+    <dimen name="px108_dp">36dp</dimen>
+    <dimen name="px110_dp">36.7dp</dimen>
+    <dimen name="px111_dp">37.0dp</dimen>
+    <dimen name="px114_dp">38.0dp</dimen>
+    <dimen name="px115_dp">38.3dp</dimen>
+    <dimen name="px116_dp">38.7dp</dimen>
+    <dimen name="px118_dp">39.3dp</dimen>
+    <dimen name="px120_dp">40.0dp</dimen>
+    <dimen name="px122_dp">40.6dp</dimen>
+    <dimen name="px124_dp">41.3dp</dimen>
+    <dimen name="px126_dp">42dp</dimen>
+    <dimen name="px130_dp">43.3dp</dimen>
+    <dimen name="px135_dp">45dp</dimen>
+    <dimen name="px138_dp">46dp</dimen>
+    <dimen name="px140_dp">47dp</dimen>
+    <dimen name="px144_dp">48dp</dimen>
+    <dimen name="px145_dp">48.3dp</dimen>
+    <dimen name="px150_dp">50.0dp</dimen>
+    <dimen name="px155_dp">51.7dp</dimen>
+    <dimen name="px156_dp">52.0dp</dimen>
+    <dimen name="px158_dp">52.7dp</dimen>
+    <dimen name="px160_dp">53.3dp</dimen>
+    <dimen name="px165_dp">55dp</dimen>
+    <dimen name="px170_dp">56.7dp</dimen>
+    <dimen name="px175_dp">58.3dp</dimen>
+    <dimen name="px180_dp">60.0dp</dimen>
+    <dimen name="px185_dp">61.7dp</dimen>
+    <dimen name="px190_dp">63.3dp</dimen>
+    <dimen name="px200_dp">67dp</dimen>
+    <dimen name="px205_dp">68.3dp</dimen>
+    <dimen name="px206_dp">68.7dp</dimen>
+    <dimen name="px212_dp">70.7dp</dimen>
+    <dimen name="px215_dp">71.7dp</dimen>
+    <dimen name="px216_dp">72.0dp</dimen>
+    <dimen name="px218_dp">72.7dp</dimen>
+    <dimen name="px222_dp">74dp</dimen>
+    <dimen name="px229_dp">76.3dp</dimen>
+    <dimen name="px230_dp">76.6dp</dimen>
+    <dimen name="px240_dp">80dp</dimen>
+    <dimen name="px246_dp">82.0dp</dimen>
+    <dimen name="px270_dp">90.0dp</dimen>
+    <dimen name="px275_dp">91.7dp</dimen>
+    <dimen name="px300_dp">100.0dp</dimen>
+    <dimen name="px386_dp">128.7dp</dimen>
+    <dimen name="px500_dp">166.5dp</dimen>
+    <dimen name="px560_dp">186.7dp</dimen>
+    <dimen name="px604_dp">201.3dp</dimen>
+    <dimen name="px650_dp">217dp</dimen>
+    <dimen name="px720_dp">240.0dp</dimen>
+    <dimen name="px760_dp">253.3dp</dimen>
+    <dimen name="px870_dp">290dp</dimen>
+
+    <!-- =================新版通用字体尺寸hdpi，sp==================== -->
+    <dimen name="px22_sp">7.3sp</dimen>
+    <dimen name="px26_sp">8.7sp</dimen>
+    <dimen name="px28_sp">9.3sp</dimen>
+    <dimen name="px30_sp">10sp</dimen>
+    <dimen name="px32_sp">10.7sp</dimen>
+    <dimen name="px34_sp">11.3sp</dimen>
+    <dimen name="px36_sp">12sp</dimen>
+    <dimen name="px38_sp">13sp</dimen>
+    <dimen name="px39_sp">13sp</dimen>
+    <dimen name="px40_sp">13.3sp</dimen>
+    <dimen name="px42_sp">14sp</dimen>
+    <dimen name="px43_sp">14sp</dimen>
+    <dimen name="px45_sp">15sp</dimen>
+    <dimen name="px46_sp">15.3sp</dimen>
+    <dimen name="px48_sp">16sp</dimen>
+    <dimen name="px52_sp">17.3sp</dimen>
+    <dimen name="px56_sp">18.7sp</dimen>
+    <dimen name="px60_sp">20.0sp</dimen>
+    <dimen name="px64_sp">21.3sp</dimen>
+    <dimen name="px70_sp">23.3sp</dimen>
+    <dimen name="px86_sp">29sp</dimen>
+    <dimen name="px90_sp">30.0sp</dimen>
+    <dimen name="px100_sp">33.3sp</dimen>
+    <dimen name="px120_sp">40sp</dimen>
+    <dimen name="px130_sp">43.3sp</dimen>
+
+    <!-- 聊天 -->
+    <dimen name="chat_item_text_small">@dimen/px30_sp</dimen>
+    <dimen name="chat_item_content_text">@dimen/px42_sp</dimen>
+    <dimen name="chat_item_status_reddot">@dimen/px24_dp</dimen>
+    <dimen name="title_footer_height">@dimen/px138_dp</dimen>
+
+    <!-- 底部空白区域 -->
+    <dimen name="divider_page_footing">@dimen/px180_dp</dimen>
+
+    <!--自定义相机用-->
+    <dimen name="squarecamera__activity_horizontal_margin">16dp</dimen>
+    <dimen name="squarecamera__activity_vertical_margin">16dp</dimen>
+    <dimen name="squarecamera__cover_start_height">300dp</dimen>
+    <dimen name="squarecamera__cover_start_width">250dp</dimen>
+    <!--end-->
+
+</resources>
